@@ -1,0 +1,9 @@
+DEPENDENCIES
+  example
+    git: https://github.com/ncalteen/chef-repo.git
+    revision: 0ae97231ac3167bca6e3b5bf9917dece48cc7831
+    branch: master
+    rel: cookbooks/example
+
+GRAPH
+  example (1.0.0)
